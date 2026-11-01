@@ -1,0 +1,9 @@
+# Optional AI dependencies for replacing the mock scoring engine with live models.
+# Install these when you are ready to enable actual interview inference.
+
+opencv-python-headless
+deepface
+librosa
+ultralytics
+numpy
+soundfile
